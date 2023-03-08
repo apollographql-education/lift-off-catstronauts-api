@@ -1,16 +1,14 @@
-# Odyssey Lift-off V (Server): Road to production
+# Odyssey Lift-off Catstronauts GraphQL API
 
-Welcome to the companion app of Odyssey Lift-off V (server)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
+This is the final version of the GraphQL API from the [Odyssey Lift-off series](https://www.apollographql.com/tutorials/certifications/apollo-graph-associate/learning-path)
 
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
-
-You can [find the client counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-client).
+You can [preview the completed client demo app here](https://lift-off-client-demo.netlify.app/), and [the source code here](https://github.com/apollographql/odyssey-lift-off-part5-client).
 
 ## How to use this repo
 
-The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
+The courses will walk you step by step on how to implement the features you see in the demo app. 
 
-This repo is the starting point of our GraphQL server.
+This repo is the final state of the GraphQL server.
 
 To get started:
 
@@ -18,12 +16,6 @@ To get started:
 1. Run `npm start`.
 
 This will start the GraphQL API server.
-
-To check the **final** stage of the server, with all of the steps and code completed, checkout the `final` branch by running the following command in your terminal:
-
-```bash
-git checkout final
-```
 
 ## Getting Help
 
