@@ -4,6 +4,10 @@ This is the final version of the GraphQL API from the [Odyssey Lift-off series](
 
 You can [preview the completed client demo app here](https://lift-off-client-demo.netlify.app/), and [the source code here](https://github.com/apollographql/odyssey-lift-off-part5-client).
 
+## Deploying your own version to Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/3Zh91O)
+
 ## How to use this repo
 
 The courses will walk you step by step on how to implement the features you see in the demo app. 
